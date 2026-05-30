@@ -145,10 +145,9 @@ Example:
 
 ```text
 images/
-├── project_setup.jpg
-├── wiring_connections.jpg
-├── relay_output.jpg
-└── xbee_modules.jpg
+├── circuit.jpg
+├── Block-diagaram.png
+
 ```
 
 ---
